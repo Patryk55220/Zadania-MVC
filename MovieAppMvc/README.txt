@@ -10,7 +10,7 @@ Aplikacja internetowa napisana w ASP.NET Core MVC, pozwalająca na przeglądanie
 -  Obsługa bazy danych SQLite
 -  Prosty interfejs graficzny (Razor Views)
 
-## 🛠️ Technologie
+##  Technologie
 
 - ASP.NET Core MVC (.NET 9)
 - Entity Framework Core
